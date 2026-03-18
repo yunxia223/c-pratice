@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\\u6570\u636E\u7ED3\u6784\u2014\u4EE3\u7801\u8BD5\u9A8C\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D15D648-7A0B-4E40-A49E-B60D08FD1E89}|c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB.vcxproj|C:\\code\\\u6570\u636E\u7ED3\u6784\u2014\u4EE3\u7801\u8BD5\u9A8C\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D15D648-7A0B-4E40-A49E-B60D08FD1E89}|c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB.vcxproj|solutionrelative:c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\code\\\u6570\u636E\u7ED3\u6784\u2014\u4EE3\u7801\u8BD5\u9A8C\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\\u6E90.cpp",
+              "ToolTip": "C:\\code\\\u6570\u636E\u7ED3\u6784\u2014\u4EE3\u7801\u8BD5\u9A8C\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\\u6E90.cpp",
+              "RelativeToolTip": "c\u002B\u002B\u6848\u4F8B\u70B9\u548C\u5706\u7684\u5173\u7CFB\\\u6E90.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-18T12:00:13.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
